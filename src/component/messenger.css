@@ -1,0 +1,26 @@
+.message{
+    border-radius: 2px;
+    width: fit-content;
+    padding: 10px;
+    /* margin-left: auto; */
+
+}
+.user{
+    margin-left: auto;
+    padding: 10px;
+    text-align: left !important;
+    
+}
+
+.usercard{
+ 
+    
+    margin-right: 40px;
+    /* padding :100px; */
+}
+.guestcard{
+       padding: 10px;
+
+    margin-left: 40px;
+
+}
